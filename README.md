@@ -1,1 +1,4 @@
-# Swc-example-repository
+# Guacamole recipe
+
+this repository contains a recipe.
+
