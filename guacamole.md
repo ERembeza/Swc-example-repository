@@ -2,5 +2,5 @@
 
 - avocados
 - onion
-- tomatoes
+- lime juice
 
